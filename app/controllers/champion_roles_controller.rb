@@ -1,0 +1,2 @@
+class ChampionRolesController < ApplicationController
+end
